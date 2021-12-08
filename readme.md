@@ -4,7 +4,7 @@ Sireum includes small, pre-built binary dependencies.
 Below are the VirusTotal analysis results for the binaries stored in 
 this repository.
 
-Analysis results for commit [4d60c2f8901687d5f2936dec96e2ab7beef12ca5](https://github.com/sireum/bin-linux/commit/4d60c2f8901687d5f2936dec96e2ab7beef12ca5) ([just before this readme update](https://github.com/sireum/bin-linux/commits/master)):
+Analysis results for commit [4d60c2f8901687d5f2936dec96e2ab7beef12ca5](https://github.com/sireum/bin-linux/commit/4d60c2f8901687d5f2936dec96e2ab7beef12ca5) ([when the binaries were last updated](https://github.com/sireum/bin-linux/commits/master)):
 
 | File | VirusTotal Result | License |
 | :--- | :---: | :---: |
