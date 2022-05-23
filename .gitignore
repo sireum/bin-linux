@@ -1,7 +1,5 @@
 /.checkstack
-/.checkstack.ver
-/.cvc*.ver
-/.compcert.ver
+/.*.ver
 /.opam
 /acl2
 /ccl
@@ -17,9 +15,7 @@
 /sireum
 /z3
 /arm/.checkstack
-/arm/.checkstack.ver
-/arm/.compcert.ver
-/arm/.cvc*.ver
+/arm/.*.ver
 /arm/.opam
 /arm/acl2
 /arm/ccl
