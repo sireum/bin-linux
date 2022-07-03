@@ -2,6 +2,7 @@
 /.*.ver
 /.opam
 /acl2
+/alt-ergo-open
 /ccl
 /clion
 /cvc*
