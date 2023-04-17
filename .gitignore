@@ -11,6 +11,7 @@
 /idea
 /idea-server
 /idea-ultimate
+/isabelle
 /java
 /opam
 /sireum
@@ -26,6 +27,7 @@
 /arm/graal
 /arm/idea
 /arm/idea-ultimate
+/arm/isabelle
 /arm/java
 /arm/opam
 /arm/sireum
