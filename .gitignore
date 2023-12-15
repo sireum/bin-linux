@@ -16,6 +16,7 @@
 /osate
 /rust
 /sireum
+/upx
 /z3
 /arm/.checkstack
 /arm/.*.ver
@@ -33,6 +34,7 @@
 /arm/opam
 /arm/rust
 /arm/sireum
+/arm/upx
 /arm/z3
 *.cmd.jar
 *.cmd.com
