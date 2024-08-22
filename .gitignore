@@ -2,6 +2,7 @@
 /.*.ver
 /.opam
 /acl2
+/brave
 /ccl
 /clion
 /cvc*
@@ -23,6 +24,7 @@
 /arm/.*.ver
 /arm/.opam
 /arm/acl2
+/arm/brave
 /arm/ccl
 /arm/clion
 /arm/cvc*
