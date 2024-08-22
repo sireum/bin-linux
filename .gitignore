@@ -17,6 +17,7 @@
 /rust
 /sireum
 /upx
+/vscodium
 /z3
 /arm/.checkstack
 /arm/.*.ver
@@ -35,6 +36,7 @@
 /arm/rust
 /arm/sireum
 /arm/upx
+/arm/vscodium
 /arm/z3
 *.cmd.jar
 *.cmd.com
