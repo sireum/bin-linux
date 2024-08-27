@@ -5,6 +5,8 @@
 /brave
 /ccl
 /clion
+/cs
+/cs.ver
 /cvc*
 /fmide
 /graal
@@ -27,6 +29,8 @@
 /arm/brave
 /arm/ccl
 /arm/clion
+/arm/cs
+/arm/cs.ver
 /arm/cvc*
 /arm/fmide
 /arm/graal
